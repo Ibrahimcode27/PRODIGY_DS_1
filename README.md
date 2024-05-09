@@ -5,5 +5,5 @@
 # **THE RESULTS**
 ![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "Text displayed on hover")
 
-[logo]: auto-generated-path-to-file-when-you-upload-image "Hover me"
+[logo]: PRODIGY_DS_1/Screenshot 2024-05-10 001443.png
 ![error text][logo]
