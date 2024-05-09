@@ -3,7 +3,10 @@
 >>Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
 
 # **THE RESULTS**
-![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "Text displayed on hover")
+![The image fails to load](PRODIGY_DS_1/SSconsole.png "code of console")
 
-[logo]: PRODIGY_DS_1/Screenshot 2024-05-10 001443.png
-![error text][logo]
+[CODE]: PRODIGY_DS_1/SScode.png
+![error text][CODE]
+
+[PLOT]: PRODIGY_DS_1/SSplot.png
+![error text][PLOT]
